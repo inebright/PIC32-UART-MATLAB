@@ -1,0 +1,11 @@
+Bright Ine & Kwaku Kessey-Ankomah
+    bine@u.rochester.edu
+    kkesseya@u.rochester.edu
+11/7/2019 - ECE 216 LAB 6
+C main file to get encoder data and output pwm signal to drive motor with the PID Controller
+"I affirm that I did not give or receive any unauthorized help on this lab, and that all work is my own."
+
+- connect pin 22 and 90 as jumper for sw6
+- pin 72 for pwm output
+- pin 10 and 11 connect to encoder A and B from the motor
+- pin 70 and 71 connect to m1in1 and m1in2
